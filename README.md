@@ -1,8 +1,11 @@
 # Analisis Sentimen Cyberbullying Pada Komentar Instagram Dengan Metode Klasifikasi Naïve Bayes
 
-
-### ABSTRAK
-Instagram digunakan oleh pengguna untuk berbagi momen
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+ <img width="2000" height="0"><b>Abstrak</b><br>
+<sub>Instagram digunakan oleh pengguna untuk berbagi momen
 lewat foto, video. Dan juga Instagram memiliki fitur untuk
 mengomentari foto dan video pengguna orang lain. Fitur tersebut
 memiliki sisi positif dan sisi negative, sisi positif nya pengguna
@@ -27,7 +30,18 @@ yang berbeda yaitu, sentimen negative memiliki nilai persisi
 97%, recall 86%, dan F-1 Score 92%. Sedangkan sentiment
 positive memiliki nilai persisi 85%, recall 97%, dan F-1 Score
 91%. Artinya dataset komentar Instagram yang digunakan pada
-penelitian ini memiliki nilai sentiment negative yang tinggi.
+penelitian ini memiliki nilai sentiment negative yang tinggi.</sub><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
+
+## Diagram alur penelitian
+![Diagram-alur (4)](https://github.com/koreoxy/Text-Mining-UAS/assets/73381115/dc1458c1-7cce-4ed0-b64e-7ca35b60b852)
+
+
+
 
 ## Contributor
 - [Saifullah](https://github.com/koreoxy)
