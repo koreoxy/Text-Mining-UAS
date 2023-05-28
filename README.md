@@ -28,4 +28,10 @@ yang berbeda yaitu, sentimen negative memiliki nilai persisi
 positive memiliki nilai persisi 85%, recall 97%, dan F-1 Score
 91%. Artinya dataset komentar Instagram yang digunakan pada
 penelitian ini memiliki nilai sentiment negative yang tinggi.
+
+## Contributor
+- [Saifullah](https://github.com/koreoxy)
+- [Marhamah](https://github.com/)
+- [Sofia](https://github.com/)
+- [Zainul Mutaqin](https://github.com/)
  
